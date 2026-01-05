@@ -4,7 +4,7 @@ print("I am yash","45",
       "indore")
 
 print("""This is a para
-of the checking
+for the checking of how python handles triple qoute's
         
         the """)
 
