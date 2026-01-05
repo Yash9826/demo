@@ -6,7 +6,7 @@ print("I am yash","45",
 print("""This is a para
 for the checking of how python handles triple qoute's
         
-        the """)
+        again i am doing the same i.e tracking the changes""")
 
 #camel case
 myVariableName = "yash"
