@@ -3,10 +3,8 @@ print("Hello world world yash ji")
 print("I am yash","45",
       "indore")
 
-print("""This is a para
-for the checking of how python handles triple qoute's
-        
-        again i am doing the same i.e tracking the changess""")
+print("""This is a para for the checking of how python handles triple qoute's
+                        again i am doing the same i.e tracking the changess""")
 
 #camel case
 myVariableName = "yash"
