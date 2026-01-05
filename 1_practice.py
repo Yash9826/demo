@@ -5,10 +5,10 @@ print("I am yash","45",
 
 print("""This is a para for the checking of how python handles triple qoute's
                         again i am doing the same i.e tracking the changess 
-                        V6 """)
+                        V6 changing""")
 
 #camel case
-myVariableName = "yash"
+myVariableName = "yash chawda "
 
 #pascal case
 MyVariableName = "yash yash"
